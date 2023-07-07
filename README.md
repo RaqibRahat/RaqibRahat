@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaqibRahat
-- 👀 I’m interested in 
+- 👀 I’m interested in competitive programming, machine learning
 - 🌱 I’m currently learning Coding, Data structures and algorithm
 - 💞️ I’m looking to collaborate on any types of software development related projects
 - 📫 How to reach me, just search Raqib Rahat anyhere
